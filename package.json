@@ -1,0 +1,23 @@
+{
+  "name": "node-isonline",
+  "version": "0.1.0",
+  "description": "A minimalistic remote machine online status checker module for Node.js",
+  "main": "lib/isOnline.js",
+  "scripts": {
+    "test": "mocha --reporter spec --timeout 60s test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/adriano-di-giovanni/node-isonline"
+  },
+  "keywords": [
+    "network",
+    "ping"
+  ],
+  "author": "Adriano Di Giovanni <me@adrianodigiovanni.com> (http://adrianodigiovanni.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adriano-di-giovanni/node-isonline/issues"
+  },
+  "homepage": "https://github.com/adriano-di-giovanni/node-isonline"
+}
